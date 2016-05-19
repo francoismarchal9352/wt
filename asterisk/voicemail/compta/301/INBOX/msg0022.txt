@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=301
+context=compta
+macrocontext=
+exten=301
+rdnis=unknown
+priority=2
+callerchan=SIP/302-00000019
+callerid="cerise LELOUCHE" <302>
+origdate=Fri May 13 10:20:10 AM UTC 2016
+origtime=1463134810
+category=
+msg_id=1463134810-00000000
+flag=
+duration=0

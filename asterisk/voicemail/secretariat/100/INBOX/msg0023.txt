@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=100
+context=commerce
+macrocontext=
+exten=100
+rdnis=unknown
+priority=2
+callerchan=SIP/401-0000007b
+callerid="Francis LESUISSE" <401>
+origdate=Thu May 12 05:02:39 PM UTC 2016
+origtime=1463072559
+category=
+msg_id=1463072559-0000001c
+flag=
+duration=20

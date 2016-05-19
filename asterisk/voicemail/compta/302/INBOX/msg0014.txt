@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=302
+context=secretariat
+macrocontext=
+exten=302
+rdnis=unknown
+priority=2
+callerchan=SIP/100-00000033
+callerid="Natasha LABONNE" <100>
+origdate=Thu May 12 07:33:14 PM UTC 2016
+origtime=1463081594
+category=
+msg_id=1463081594-00000002
+flag=
+duration=23

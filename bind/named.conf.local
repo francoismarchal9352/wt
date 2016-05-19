@@ -1,0 +1,18 @@
+zone "wt9.ephec-ti.be." {
+       type master;
+       file "/etc/bind/db.wt9.ephec-ti.be";
+};
+
+#zone "rev.wt9.ephec-ti.be" {
+#       type master;
+#       file "/etc/bind/wt9.wt9.ephec-ti.be";
+#};
+
+
+logging {
+    channel query.log {      
+        file "/var/log/query.log"; 
+        severity debug 3; 
+    }; 
+    category queries { query.log; }; 
+};

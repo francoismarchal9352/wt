@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=302
+context=compta
+macrocontext=
+exten=302
+rdnis=unknown
+priority=2
+callerchan=SIP/301-00000046
+callerid="Francois XAVIER" <301>
+origdate=Fri Apr 29 07:11:01 PM UTC 2016
+origtime=1461957061
+category=
+msg_id=1461957061-0000000e
+flag=
+duration=0

@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=302
+context=usine
+macrocontext=
+exten=302
+rdnis=unknown
+priority=2
+callerchan=SIP/201-00000017
+callerid="Henry DUPRET" <201>
+origdate=Thu Apr 28 10:11:52 PM UTC 2016
+origtime=1461881512
+category=
+msg_id=1461881512-00000000
+flag=
+duration=0

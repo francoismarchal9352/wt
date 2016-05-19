@@ -1,0 +1,18 @@
+;
+; Message Information file
+;
+[message]
+origmailbox=301
+context=secretariat
+macrocontext=
+exten=301
+rdnis=unknown
+priority=2
+callerchan=SIP/100-00000004
+callerid="Natasha LABONNE" <100>
+origdate=Fri Apr 29 11:08:02 PM UTC 2016
+origtime=1461971282
+category=
+msg_id=1461971282-00000000
+flag=
+duration=0

@@ -1,0 +1,4 @@
+AuthUserFile /var/www/intranet.wt9.ephec-ti.be/public_html/.htpasswd
+AuthName "Veuillez vous identifier"
+AuthType Basic
+require valid-user
